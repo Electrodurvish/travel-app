@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Camping And Travelling App
+
+<div align="center">
+  <img src="public/Screenshot 2024-09-08 031110.png">
+</div>
+
+Check out the live demo of the project <a href="https://travel-app-red-kappa.vercel.app/">here.</a>
 
 ## Getting Started
 
